@@ -18,5 +18,4 @@
 
 ## Links
 
-- 🌐 [LinkedIn](www.linkedin.com/in/hugolegrand78100)  
-- ✉️ [Email](hugo.legrand1206@gmail.com)  
+- 🌐 [LinkedIn](https://linkedin.com/in/hugolegrand78100)  
