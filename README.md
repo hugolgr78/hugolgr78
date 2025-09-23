@@ -1,6 +1,6 @@
 # Hugo Legrand
 
-🎓 **Third-year Maths and Computer Science Student** at the University of St Andrews.  
+🎓 **Fourth-year Maths and Computer Science Student** at the University of St Andrews.  
 💻 **Passionate about Software Engineering and Data Analysis** with a focus on creating impactful applications.  
 🐍 **Python proficient**, specializing in using customtkinter for GUI development.  
 
